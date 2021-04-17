@@ -1,8 +1,8 @@
-# Learning from Noisy Web Images for Fine-Grained Visual Recognition through Dataset Purification
+# Extracting Useful Knowledge form Noisy Web Images via Data Purification for Fine-Grained Recognition
 
 Introduction
 ------------
-This is the source code for our paper **Learning from Noisy Web Images for Fine-Grained Visual Recognition through Dataset Purification**
+This is the source code for our paper **Extracting Useful Knowledge form Noisy Web Images via Data Purification for Fine-Grained Recognition**
 
 Network Architecture
 --------------------
